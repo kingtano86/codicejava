@@ -9,7 +9,7 @@ public class PuntoDeLanso {
 		
 		
 		
-		System.out.print("hola");
+		System.out.print("hola alex");
 		
 		Humano tano=new Humano();
 		
